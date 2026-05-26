@@ -61,11 +61,6 @@ I enjoy turning real-world problems into practical software solutions by combini
 
 Built an intelligent data query system that allows users to ask natural-language questions over large JSON files.
 
-- Developed a pipeline to extract and query structured data from large JSON files
-- Designed a multi-stage LangGraph workflow to select relevant fields, build DataFrames, and answer user questions
-- Integrated FastAPI and Streamlit to support RESTful APIs and an interactive chatbot interface
-- Enabled users to query unstructured JSON data without writing code
-
 **Tech Used:** Python, LangChain, LangGraph, OpenAI, ChromaDB, Streamlit, FastAPI, Pandas, ijson
 
 ---
@@ -73,11 +68,6 @@ Built an intelligent data query system that allows users to ask natural-language
 ### Adaptive Multi-Agent Chatbot System
 
 Developed a context-aware chatbot application that dynamically routes user queries to specialized agents.
-
-- Built an adaptive multi-agent chatbot with dedicated agents for AI-related questions, Concordia admission, and general questions
-- Implemented conversation memory using FAISS to track user history and support multi-turn dialogue
-- Integrated Wikipedia API for enhanced knowledge retrieval
-- Used simulated reinforcement learning to improve response evaluation
 
 **Tech Used:** Python, FAISS, Wikipedia API, Ollama, LangGraph
 
@@ -87,11 +77,6 @@ Developed a context-aware chatbot application that dynamically routes user queri
 
 Created an automated content generation system for machine learning news and articles.
 
-- Built an application that gathers recent machine learning articles through web scraping
-- Used OpenAI GPT models to generate scheduled social media posts
-- Integrated OpenAI API and Twitter API for automated content publishing
-- Collaborated with another developer to deliver the project workflow
-
 **Tech Used:** Python, OpenAI, Twitter API, BeautifulSoup
 
 ---
@@ -100,39 +85,7 @@ Created an automated content generation system for machine learning news and art
 
 Developed a strategy game with a team of five members.
 
-- Designed and developed a modular Java-based strategy game
-- Implemented testing protocols using JUnit
-- Applied design patterns such as State, Strategy, and Command
-- Improved code flexibility and maintainability through modular design
-
 **Tech Used:** Java, Maven, JUnit
-
----
-
-### Book Store Management System
-
-Built a modular Java application for validating, categorizing, and storing book records.
-
-- Parsed book data from CSV files
-- Built syntax and semantic validation modules
-- Serialized validated records into binary files
-- Designed a console-based browsing interface by genre
-- Used custom exceptions and reusable components for cleaner code
-
-**Tech Used:** Java, IntelliJ IDEA
-
----
-
-### Minimum Cost Flow Algorithms Simulation
-
-Built a Java-based framework to simulate and compare graph algorithms for the Minimum-Cost Flow problem.
-
-- Implemented algorithms such as Primal-Dual, Successive Shortest Paths, Capacity Scaling, and Edmonds-Karp
-- Automated graph generation using parameters such as nodes, edge density, capacity, and cost
-- Compared performance and cost metrics across algorithms
-- Produced structured results for technical analysis
-
-**Tech Used:** Java, Graph Algorithms, IntelliJ IDEA
 
 ---
 
@@ -140,11 +93,6 @@ Built a Java-based framework to simulate and compare graph algorithms for the Mi
 
 ### Teaching Assistant  
 **Misr University for Science and Technology — Cairo, Egypt**
-
-- Mentored and trained over 100 students through practical lab sessions
-- Delivered more than 30 practical sessions per semester
-- Helped improve students’ practical programming and software development skills
-- Updated course materials to align with academic and technical standards
 
 ---
 
@@ -154,11 +102,6 @@ Built a Java-based framework to simulate and compare graph algorithms for the Mi
 **Master of Applied Computer Science**  
 Montreal, Canada  
 2024 – 2026
-
-### Misr University for Science and Technology  
-**Bachelor of Computer Science**  
-Egypt  
-2014 – 2018
 
 ---
 
@@ -173,14 +116,6 @@ Egypt
 - Cloud-Based Applications
 - Software Architecture
 - Algorithm Design
-
----
-
-## GitHub Stats
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-2112&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-2112&layout=compact&theme=tokyonight)
 
 ---
 
